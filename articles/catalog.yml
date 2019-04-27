@@ -1,0 +1,18 @@
+PREDEF:
+  # はじめに
+  - preface.re
+
+CHAPS:
+  # 各自書きたい内容とファイル名を追加していく
+
+  # カジュアルに名刺を作ろう
+  - chap-oyakata-meishi.re
+
+APPENDIX:
+
+POSTDEF:
+  # あとがき
+  - postscript.re
+
+  # 執筆者一覧
+  - contributors.re
