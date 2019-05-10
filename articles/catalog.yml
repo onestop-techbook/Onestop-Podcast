@@ -5,10 +5,16 @@ PREDEF:
 CHAPS:
   # 各自書きたい内容とファイル名を追加していく
 
-  # カジュアルに名刺を作ろう
-  - chap-oyakata-meishi.re
+  # Podcastを聴こう!
+  - listen-to-podcasts.re
 
 APPENDIX:
+
+  # リスナーへのアンケート
+  - questionnaire-listener.re
+
+  # Podcasterへのアンケート
+  - questionnaire-podcaster.re
 
 POSTDEF:
   # あとがき

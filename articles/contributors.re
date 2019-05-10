@@ -63,17 +63,14 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/47l90qIj_400x400.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/FORTE.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        えるきち @erukiti https://twitter.com/erukiti\\
-        サークル名：東京ラビットハウス https://rabbit-house.tokyo/
+        FORTE(フォルテ) https://twitter.com/FORTEgp05
         \end{minipage}
     \hspace{1ex}
 //}
-最近の技術書典ではスケジュールに無理がありすぎて、僕の見積もり力とは…という感じですが、今後はちゃんとこの本を何回も読み返して頑張っていきたいと思います。ちなみにメタプログラミング、TypeScript、VSCode大好き！その割にはフロントエンドよりもバックエンドの経験値の方が高かったり、微妙にインフラ知識・経験もあるという。技術書典6でもJS系の本を出してるに違いないです。
-
-　
+SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。Podcastの楽しさをさらに広めるため、Podcastを始める人が増えて楽しいPodcastを増やすため、何よりも自分が楽しいでPodcast本を生やしました。　
 
 
 == 表紙イラスト担当
