@@ -70,7 +70,7 @@
         \end{minipage}
     \hspace{1ex}
 //}
-SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。Podcastの楽しさをさらに広めるため、Podcastを始める人が増えて楽しいPodcastを増やすため、何よりも自分が楽しいでPodcast本を生やしました。　
+SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。Podcastの楽しさをさらに広めるため、Podcastを始める人が増えて楽しいPodcastを増やすため、何よりも自分が楽しいのでPodcast本を生やしました。　
 
 
 == 表紙イラスト担当
