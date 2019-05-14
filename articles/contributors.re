@@ -72,6 +72,43 @@
 //}
 SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。Podcastの楽しさをさらに広めるため、Podcastを始める人が増えて楽しいPodcastを増やすため、何よりも自分が楽しいのでPodcast本を生やしました。　
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ebichiki.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        えびちき https://twitter.com/ebichiki
+        \end{minipage}
+    \hspace{1ex}
+//}
+IT企業で働くママエンジニアです。通勤や家事をしながらPodcastを楽しんでいます。　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/nainaistar.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        きり丸 https://twitter.com/nainaistar
+        \end{minipage}
+    \hspace{1ex}
+//}
+SIerのウォーターフォールを経験したのちに、転職してアジャイル開発を楽しんでいる最中のアプリエンジニア。サボり癖があるので、勉強会に行くことで色んなことを吸収しています（しているつもりです）年に1回くらいのペースですが、ゆるゆるとよさこいでどこかに出没してます。
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/koheisg.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        koheisg https://twitter.com/koheisg
+        \end{minipage}
+    \hspace{1ex}
+//}
+普段はRuby on Railsを中心としたフリーランスのエンジニアをやっています。フリーランスのエンジニアはリモート作業も多いので、podcastは心の友です。podcast好きがワイワイ話してるnoracastもぜひお聞きください。
+
+
 
 == 表紙イラスト担当
 
