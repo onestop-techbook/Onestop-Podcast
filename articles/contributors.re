@@ -72,6 +72,10 @@
 //}
 SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。Podcastの楽しさをさらに広めるため、Podcastを始める人が増えて楽しいPodcastを増やすため、何よりも自分が楽しいのでPodcast本を生やしました。　
 
+　
+
+
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -83,6 +87,10 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
     \hspace{1ex}
 //}
 IT企業で働くママエンジニアです。通勤や家事をしながらPodcastを楽しんでいます。　
+
+　
+
+
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -96,6 +104,10 @@ IT企業で働くママエンジニアです。通勤や家事をしながらPod
 //}
 SIerのウォーターフォールを経験したのちに、転職してアジャイル開発を楽しんでいる最中のアプリエンジニア。サボり癖があるので、勉強会に行くことで色んなことを吸収しています（しているつもりです）年に1回くらいのペースですが、ゆるゆるとよさこいでどこかに出没してます。
 
+　
+
+
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -108,6 +120,56 @@ SIerのウォーターフォールを経験したのちに、転職してアジ�
 //}
 普段はRuby on Railsを中心としたフリーランスのエンジニアをやっています。フリーランスのエンジニアはリモート作業も多いので、podcastは心の友です。podcast好きがワイワイ話してるnoracastもぜひお聞きください。
 
+　
+
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/naokazu_terada.jpeg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        寺田直和 https://twitter.com/naokazu\_terada
+        \end{minipage}
+    \hspace{1ex}
+//}
+千葉の小さなデザイン会社KARAPPO（https://karappo.net）の共同設立者です。元々デザイナー兼エンジニアでしたが、今は開発をメインで担当しています。デザインとプログラミングの力で解決できることは何でもします。ウェブ案件ではWordPressやSSGを使うことが多いです。何か役に立つツールを作ることが好きです。
+現在、弊社では一緒に働く仲間を募集中です。デザインと開発両方に興味があり、弊社の過去の実績や考え方をご覧いただいて共感していただける方はぜひ一度お話しましょう！
+採用情報ページ：https://karappo.net/news/recruit/2019/
+
+　
+
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/MzRyuKa_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        みずりゅ @MzRyuKa https://twitter.com/mzryuka\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+のんびりごろごろ、ネコ、うさまる、技術の話は大好きです。SIerですがアジャイルな開発も経験していたりします。
+最近は思うところもあり、色々と活動中。最近のお気に入り言語はGo言語です。
+
+　
+
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/goodengineer7.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        S(エス) https://twitter.com/goodengineer7
+        \end{minipage}
+    \hspace{1ex}
+//}
+平日は名古屋でフリーランスエンジニア。ずっとJava・C#でSES客先常駐パターンでしたが、ようやくWeb系の案件（Laravel+Vue.js）に転向できました。週末は鹿が出る岐阜のド田舎で家族と暮らしてます。43歳の時、手取り19万円だったブラック企業を脱出してフリーランスへ。電子書籍で生々しい経緯を無料配布中 http://bit.ly/FSE-FreeEBook
 
 
 == 表紙イラスト担当
