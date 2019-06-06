@@ -8,6 +8,12 @@ CHAPS:
   # Podcastを聴こう!
   - listen-to-podcasts.re
 
+  # Podcastを始めよう!
+  - starting-to-podcasts.re
+
+  # Podcastを続けよう!
+  - continue-to-podcasts.re
+
 APPENDIX:
 
   # リスナーへのアンケート
@@ -15,6 +21,9 @@ APPENDIX:
 
   # Podcasterへのアンケート
   - questionnaire-podcaster.re
+
+  # 仮置きPodcastに関するイベントのコラム
+  - event.re
 
 POSTDEF:
   # あとがき
