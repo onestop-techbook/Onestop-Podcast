@@ -171,6 +171,45 @@ SIerのウォーターフォールを経験したのちに、転職してアジ�
 //}
 平日は名古屋でフリーランスエンジニア。ずっとJava・C#でSES客先常駐パターンでしたが、ようやくWeb系の案件（Laravel+Vue.js）に転向できました。週末は鹿が出る岐阜のド田舎で家族と暮らしてます。43歳の時、手取り19万円だったブラック企業を脱出してフリーランスへ。電子書籍で生々しい経緯を無料配布中 http://bit.ly/FSE-FreeEBook
 
+　
+
+
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/akazunoma.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        akazunoma https://twitter.com/akazunoma
+        \end{minipage}
+    \hspace{1ex}
+//}
+寝相が良いWebディレクター。
+ドワンゴ、DMM.comなどの様々なWeb企業勤務を経て楽しく暮らす。
+口癖は「なんか」と「あの」。
+
+　
+
+
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/yyyyy.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        yyykn
+        \end{minipage}
+    \hspace{1ex}
+//}
+Webの片隅でなにかをつくっています。やっていきましょう。
+podcastはたのしいです。
+紹介する自己がありません。
+
+
 
 == 表紙イラスト担当
 
