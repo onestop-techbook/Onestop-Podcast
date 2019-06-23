@@ -464,10 +464,9 @@ Audacityはフリーで録音、編集ができるソフトです。録音時は
 
 Audacityには、インストール時に同梱されている標準のエフェクト以外にも、後から導入できるフィルター（プラグイン）が多く存在します。
 
- * Chris’s Dynamic Compressor plugin for Audacity@<br>{}@<href>{https://theaudacitytopodcast.com/chriss-dynamic-compressor-plugin-for-audacity/}
+たとえば「Chris’s Dynamic Compressor plugin for Audacity@<fn>{chriss-dynamic-compressor}」プラグインを利用することで、標準フィルターのコンプレッサーよりも強く圧縮をかけることができます。
 
-たとえば「Chris’s Dynamic Compressor plugin for Audacity」プラグインを利用することで、標準フィルターのコンプレッサーよりも強く圧縮をかけることができます。
-
+//footnote[chriss-dynamic-compressor][@<href>{https://theaudacitytopodcast.com/chriss-dynamic-compressor-plugin-for-audacity/}]
 
  * 「Limiter（リミッター）」フィルターで最大音量を無理やり削る
  * 「Chris’s Dynamic Compressor（メニュー表記は Compress Dynamics 1.xx...）」で圧縮
@@ -497,7 +496,7 @@ yattecast（ヤッテキャスト）はr7kamuraさんが開発したPodcastサ�
 
 yattecastの特徴はお手軽さと拡張性の高さです。HTMLとCSS、JavaScriptの知識があればyattecastをベースに自分の好みの配信サイトを簡単に作ることができます。それらの知識がなくても画像ファイルを変えるだけでオリジナリティがあるサイトにできるでしょう。またPodcastの配信に必要な機能は最初から搭載されているので、必要な機能は簡単に実現できて、デザインや見た目などに時間をかけることができます。もし自分好みの配信サイトにしたい、そのために勉強しても良い!という方であればとてもやりがいがありますので、yattecastをお勧めします。
 
-ただしｍGithubの基本的な操作方法がわかっていることが前提になります。ですので、Githubに関する知識がなくてもっと簡単に配信したい場合は別の配信方法が良いでしょう。
+ただし、Githubの基本的な操作方法がわかっていることが前提になります。ですので、Githubに関する知識がなくてもっと簡単に配信したい場合は別の配信方法が良いでしょう。
 
 ==== 配信方法
 
@@ -625,11 +624,11 @@ Blubrry のサイトでは、
 
 ==== Podcast音声ファイルをアップロードする
 
-WordPressにおける通常の画像ファイルと同様に、［メディア］にてファイルをアップロードします。後ほど必要になりますので、以下の手順にてファイルの実URLをコピーしておいてください。
+WordPressにおける通常の画像ファイルと同様に、［メディア］にてファイルをアップロードします。後ほど必要になりますので、次の手順にてファイルの実URLをコピーしておいてください。
 
- * ［メディア］を開き、アップロードされた該当音声ファイルをクリックし
- *  [添付ファイルの詳細」画面が表示される
- * 「リンクをコピー」欄の完全URLをコピーしておく
+ * ［メディア］を開き、アップロードされた該当音声ファイルをクリックする
+ * ［添付ファイルの詳細］画面が表示される
+ * ［リンクをコピー］欄の完全URLをコピーしておく
 
 ==== 記事を投稿する
 
