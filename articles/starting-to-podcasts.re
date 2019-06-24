@@ -466,8 +466,6 @@ Audacityには、インストール時に同梱されている標準のエフェ
 
 たとえば「Chris’s Dynamic Compressor plugin for Audacity@<fn>{chriss-dynamic-compressor}」プラグインを利用することで、標準フィルターのコンプレッサーよりも強く圧縮をかけることができます。
 
-//footnote[chriss-dynamic-compressor][@<href>{https://theaudacitytopodcast.com/chriss-dynamic-compressor-plugin-for-audacity/}]
-
  * 「Limiter（リミッター）」フィルターで最大音量を無理やり削る
  * 「Chris’s Dynamic Compressor（メニュー表記は Compress Dynamics 1.xx...）」で圧縮
 
@@ -479,6 +477,8 @@ Audacityには、インストール時に同梱されている標準のエフェ
 
 //image[AudacityDynamicCompressor][Compress Dynamics フィルターを適用した場合の変化]
 ====[/column]
+
+//footnote[chriss-dynamic-compressor][@<href>{https://theaudacitytopodcast.com/chriss-dynamic-compressor-plugin-for-audacity/}]
 
 == 配信
 
