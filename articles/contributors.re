@@ -209,6 +209,23 @@ Webの片隅でなにかをつくっています。やっていきましょう�
 podcastはたのしいです。
 紹介する自己がありません。
 
+　
+
+
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/iwasiman.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        いわしまん https://twitter.com/iwasiman
+        \end{minipage}
+    \hspace{1ex}
+//}
+エンジニア転職戦線がまだSIer対Web系でなく汎用機系対オープン系で語られていた時代、金融系からSIer(たぶん)に転職してサバイブしてきたITエンジニア。会社ではSEだけどほぼソフトウェアエンジニアであり、Webエンジニアぽくもあり、何エンジニアなのかよく分からなくなっています。サーバサイドがメインでアーキテクト的な立ち位置が多いです。2019年はAWSの学習を始めてみました。
+皆さんのエンジニアライフが、Podcastと共により楽しくなりますように！
 
 
 == 表紙イラスト担当
