@@ -236,6 +236,7 @@ TODO　収録場所
 PCで録音するにはマイクの他に録音ソフトが必要です。筆者は録音、編集ソフトとしてAudacityを使用しています。
 
  * Audacity
+
 Audacityはフリーで録音、編集ができるソフトです。録音時は録音レベルを調整することができ、マイク側で調整ができなくてもある程度ならソフト側で調整できます。
 
 他に書くことある?
@@ -471,12 +472,15 @@ Audacityはフリーで録音、編集ができるソフトです。録音時は
 
 ====[column] 参考情報：Audacity Plugin のお話
 
-Audacityには、インストール時に同梱されている標準のエフェクト以外にも、後から導入できるフィルター（プラグイン）が多く存在します。
+Audacityには、インストール時に同梱されている標準のエフェクト以外にも、後から導入できるフィルター（プラグイン）が多く存在します。次のようなプラグインが便利です。
 
-たとえば「Chris’s Dynamic Compressor plugin for Audacity@<fn>{chriss-dynamic-compressor}」プラグインを利用することで、標準フィルターのコンプレッサーよりも強く圧縮をかけることができます。
+ * 「Chris’s Dynamic Compressor（メニュー表記は Compress Dynamics 1.xx...）」
 
- * 「Limiter（リミッター）」フィルターで最大音量を無理やり削る
- * 「Chris’s Dynamic Compressor（メニュー表記は Compress Dynamics 1.xx...）」で圧縮
+「Chris’s Dynamic Compressor plugin for Audacity@<fn>{chriss-dynamic-compressor}」プラグインを利用することで、標準フィルターのコンプレッサーよりも強く圧縮をかけることができます。
+
+ * 「Limiter（リミッター）」
+ 
+ フィルターで最大音量を無理やり削ることができます。
 
 通常の声はボソボソと音量が低いけれど、ところどころ爆笑のシーンがあって音量差が激しいような場合は、これらのプラグインを用いて、全体音量をクリップするという手順を踏むと、いわゆるマスタリング作業が簡単に行えます。ただし、この場合もやはりノイズが大きく影響するため、設定によっては「要らないノイズが増幅されてしまった」もしくは逆に「小声で喋っている大事な部分が聞こえなくなってしまった」といった結果になってしまうことがあります。まずはノイズが多そうな部分や、話者の声が小さくなってしまっている部分で局所的に適用結果を確認し、そのあとで全体に適用することをお勧めします。
 
@@ -485,9 +489,10 @@ Audacityには、インストール時に同梱されている標準のエフェ
 //image[AudacityLimiter][Limiter（リミッター）フィルターで「Hard Limit」を適用した場合の変化]
 
 //image[AudacityDynamicCompressor][Compress Dynamics フィルターを適用した場合の変化]
-====[/column]
 
 //footnote[chriss-dynamic-compressor][@<href>{https://theaudacitytopodcast.com/chriss-dynamic-compressor-plugin-for-audacity/}]
+
+====[/column]
 
 == 配信
 
