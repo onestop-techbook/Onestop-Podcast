@@ -601,21 +601,21 @@ anchorはホスティングコストをユーザーに支払わせることは�
  * アナリティクスが充実している
 Podcastを配信していると、どのエピソードがどの程度再生されたのか？といった情報を分析したくなります。anchorにはそれを用意されていてダッシュボードという形で閲覧することができます。
 
-//image[anchor_analytics_1][anchor analytics画面 総再生回数]
-//image[anchor_analytics_2][anchor analytics画面 エピソード別再生回数]
-//image[anchor_analytics_3][anchor analytics画面 再生デバイス情報]
+//image[anchor_analytics_1][anchor analytics画面 総再生回数][scale=0.5]
+//image[anchor_analytics_2][anchor analytics画面 エピソード別再生回数][scale=0.5]
+//image[anchor_analytics_3][anchor analytics画面 再生デバイス情報][scale=0.5]
 
  * さまざまな録音方法が用意されている
 Web上で録音をすることができるので、追加の機器を必要とせずに音声を簡単に録音できます。もちろん、音声の編集をしっかりとやりたい方はローカルで収録をしてアップロードをするという方法を取ることも可能です。
 
-//image[anchor_top][anchor TOP画面]
+//image[anchor_top][anchor TOP画面][scale=0.5]
 
 
 ==== アカウントの作成
 まずは、アカウントを作成します。
 アカウント作成にはメールアドレスが必要なので、Podcastを作成する用のメールアドレスを取得しておくと良いでしょう。
 
-//image[anchor_acount][anchor アカウント作成]
+//image[anchor_acount][anchor アカウント作成][scale=0.5]
 
 
 ==== アイコンの登録
@@ -633,13 +633,13 @@ Podcastチャンネルを作成するときには下記の情報の入力が必�
  * Your name(配信者の名前)
  * Your email(配信者のメールアドレス)
 
-//image[anchor_channel][anchor チャンネル情報入力画面]
+//image[anchor_channel][anchor チャンネル情報入力画面][scale=0.3]
 
 
 ==== 音声のアップロード
 音声をアップロードします。
 
-//image[anchor_upload][anchor アップロード画面]
+//image[anchor_upload][anchor アップロード画面][scale=0.5]
 
 
 ==== タイトルと詳細の記載
@@ -648,16 +648,16 @@ Podcastチャンネルを作成するときには下記の情報の入力が必�
 詳細情報部分には、エピソードの説明や収録中に出てきたキーワードに関連するリンクなどを記載しましょう。
 簡単な文字の装飾やリンクをつけることも可能です。
 
-//image[anchor_episode][anchor エピソード情報入力場面]
+//image[anchor_episode][anchor エピソード情報入力場面][scale=0.5]
 
 ==== 配信日の指定
 anchorでは、予約投稿をする機能があります。（もちろん、アップロードをしてすぐに配信をすることも可能です。）
 配信をしたい日付と時間を選び、予約投稿をしておくことで指定の時間になると配信がされます。（RSSを購読しているリスナーにはそのタイミングで配信開始のお知らせが飛びます。）
-//image[anchor_schedule][anchor 配信予約日程入力画面]
+//image[anchor_schedule][anchor 配信予約日程入力画面][scale=0.5]
 
 ==== 配信画面
 配信が開始されると配信画面にエピソードが表示されます。これでanchorでの配信は完了です。
-//image[anchor_public][anchor 配信画面]
+//image[anchor_public][anchor 配信画面][scale=0.5]
 
 === SoundCloud
 しがないラジオのおふたり
