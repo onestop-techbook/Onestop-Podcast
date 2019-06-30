@@ -633,7 +633,7 @@ Podcastチャンネルを作成するときには下記の情報の入力が必�
  * Your name(配信者の名前)
  * Your email(配信者のメールアドレス)
 
-//image[anchor_channel][anchor チャンネル情報入力画面][scale=0.5]
+//image[anchor_channel][anchor チャンネル情報入力画面][scale=0.25]
 
 
 ==== 音声のアップロード
