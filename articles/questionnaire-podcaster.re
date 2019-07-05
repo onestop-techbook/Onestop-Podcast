@@ -18,7 +18,7 @@
 
 //}
 
-== Podcasterさんへのアンケート@FORTE@FORTEgp05
+== Podcasterさんへのアンケート@FORTE
 
 ==={FORTEgp051} Podcastタイトル
 aozora.fm
@@ -117,7 +117,7 @@ noracast
 
 ==={naokazu_terada2} なにをやっているか（内容など）
 
-"noracast"（ノラキャスト）は、オンラインコミュニティ"DevelopersJP"周辺にたむろするノラ猫エンジニアたちが、近頃流行りのテック系ポッドキャストを“サカナ“ 🐟 に話す番組です。DevelopersJPは、フリーランスや小さな会社のエンジニアが集って、わいわいワイワイしてるSlack のことです。
+"noracast"（ノラキャスト）は、オンラインコミュニティ"DevelopersJP"周辺にたむろするノラ猫エンジニアたちが、近頃流行りのテック系ポッドキャストを“サカナ“に話す番組です。DevelopersJPは、フリーランスや小さな会社のエンジニアが集って、わいわいワイワイしてるSlack のことです。
 
 ==={naokazu_terada3} なぜやっているのか
 
@@ -186,7 +186,7 @@ IT関連ニュースの紹介と、オモロイ人へのインタビュー
 //pagebreak
 
 
-== Podcasterさんへのアンケート@akazunoma,yyykn@ningengahetaFM
+== Podcasterさんへのアンケート@akazunoma,yyykn
 
 ==={ningengahetaFM1} Podcastタイトル
 にんげんがへたエフエム
