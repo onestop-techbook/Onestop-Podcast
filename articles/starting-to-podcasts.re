@@ -766,23 +766,23 @@ Podcastは主に話をしながら配信をする媒体です。
 
 Audacityには、インストール時に同梱されている標準のエフェクト以外にも、後から導入できるフィルター（プラグイン）が多く存在します。次のようなプラグインが便利です。
 
- * 「Chris’s Dynamic Compressor（メニュー表記は Compress Dynamics 1.xx...）」
+ * 「Chris’s Dynamic Compressor plugin for Audacity@<fn>{chriss-dynamic-compressor}」
 
-「Chris’s Dynamic Compressor plugin for Audacity@<fn>{chriss-dynamic-compressor}」プラグインを利用することで、標準フィルターのコンプレッサーよりも強く圧縮をかけることができます。
+このプラグイン（メニューでは Compress Dynamics 1.xx... と表示されます）を利用することで、標準フィルターのコンプレッサーよりも強く圧縮をかけることができます。
 
- * 「Limiter（リミッター）」
+また、初期インストール時に同梱されている「Limiter（リミッター）」フィルター（最大音量を無理やり削ることができるフィルター）と組み合わせることで、より音量の振れ幅が少ない、聴きやすい音源を作ることができます。
 
- フィルターで最大音量を無理やり削ることができます。
+たとえば、通常の声はボソボソと音量が低い、でも、ところどころに爆笑のシーンがあって音量差が激しい、というような収録音源を想定してみましょう。この場合、まず「Limiter」フィルターで音量が大きな部分をクリップ、次に「Chris’s Dynamic Compressor plugin」を適用することで、強い圧縮効果が期待できます。
 
-通常の声はボソボソと音量が低いけれど、ところどころ爆笑のシーンがあって音量差が激しいような場合は、これらのプラグインを用いて、全体音量をクリップするという手順を踏むと、いわゆるマスタリング作業が簡単に行えます。ただし、この場合もやはりノイズが大きく影響するため、設定によっては「要らないノイズが増幅されてしまった」もしくは逆に「小声で喋っている大事な部分が聞こえなくなってしまった」といった結果になってしまうことがあります。まずはノイズが多そうな部分や、話者の声が小さくなってしまっている部分で局所的に適用結果を確認し、そのあとで全体に適用することをお勧めします。
+ただし、この場合もノイズが大きく影響するため、設定によっては「要らないノイズが増幅されてしまった」もしくは逆に「小声で喋っている大事な部分が聞こえなくなってしまった」といった結果になることがあります。まずはノイズが多そうな部分や、話者の声が小さくなってしまっている部分で局所的に適用結果を確認し、そのあとで全体に適用することをお勧めします。
 
 //image[AudacityLimiter][Limiter（リミッター）フィルターで「Hard Limit」を適用した場合の変化]
 
 //image[AudacityDynamicCompressor][Compress Dynamics フィルターを適用した場合の変化]
 
-//footnote[chriss-dynamic-compressor][@<href>{https://theaudacitytopodcast.com/chriss-dynamic-compressor-plugin-for-audacity/}]
-
 ====[/column]
+#@# ［コメント行です］↓ footnoteを column 内に移動したくなりますが、そうすると脚注番号がおかしくなります。この位置で正しいようです。
+//footnote[chriss-dynamic-compressor][@<href>{https://theaudacitytopodcast.com/chriss-dynamic-compressor-plugin-for-audacity/}]
 
 == 配信
 
