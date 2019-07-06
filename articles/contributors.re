@@ -243,6 +243,21 @@ podcastはたのしいです。
 皆さんのエンジニアライフが、Podcastと共により楽しくなりますように！
 
 
+　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/etDVh3D9_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ひな https://twitter.com/hinahypersonica
+        \end{minipage}
+    \hspace{1ex}
+//}
+研究者。普段は本とゲームを語りますが、細く長いPodcast聴き専でもあります。Podcast本が生えると知って思わずアンケートに名乗り出てしまいましたが、出処の知れない回答を拾っていただいたことには感謝しかありません。皆様にPodcastの楽しさが少しでも伝わりますように。
+
+
+
 == 表紙イラスト担当
 
 //embed{
