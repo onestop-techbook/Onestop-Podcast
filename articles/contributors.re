@@ -258,6 +258,24 @@ podcastはたのしいです。
 
 
 
+
+　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/gami.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        jumpei_ikegami https://twitter.com/jumpei_ikegami
+        \end{minipage}
+    \hspace{1ex}
+//}
+「しがないラジオ」パーソナリティ。
+『完全SIer脱出マニュアル』著者。
+好きな完全食はCOMP。
+
+
+
 == 表紙イラスト担当
 
 //embed{
