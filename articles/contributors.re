@@ -266,7 +266,7 @@ podcastはたのしいです。
         \includegraphics[width=.75\linewidth]{images/contributors/gami.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        jumpei_ikegami https://twitter.com/jumpei_ikegami
+        jumpei\_ikegami https://twitter.com/jumpei\_ikegami
         \end{minipage}
     \hspace{1ex}
 //}
