@@ -14,6 +14,9 @@ CHAPS:
   # Podcastを続けよう!
   - continue-to-podcasts.re
 
+  # あとがきに代えて
+  - chap-conclude.re
+
 APPENDIX:
 
   # リスナーへのアンケート
