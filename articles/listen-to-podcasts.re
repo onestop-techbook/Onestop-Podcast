@@ -194,7 +194,7 @@ Podcastにはたくさんの番組があります。これまでにも簡単に�
 
 @<code>{https://podcastfreaks.com/}
 
-「Podcast Freaks」は日本語ののTech系Podcastを登録して更新情報などを一覧表示してくれるサイトです。「noracast」というPodcastのパーソナリティが作成したサイトで、Podcastの一覧表示のほか、配信情報の表示や、Podcastをスマホにそのまま登録できるファイル（OPML）のダウンロードなどが可能です。
+「Podcast Freaks」は日本語のTech系Podcastを登録して更新情報などを一覧表示してくれるサイトです。「noracast」というPodcastのパーソナリティが作成したサイトで、Podcastの一覧表示のほか、配信情報の表示や、Podcastをスマホにそのまま登録できるファイル（OPML）のダウンロードなどが可能です。
 
 Tech系Podcastを聞きたいという人はぜひ「Podcast Freaks」を使ってみてください。お気に入りのPodcastが見つかると思います。
 
