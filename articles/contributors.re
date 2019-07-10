@@ -48,7 +48,7 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/i-kZmS-f_400x400.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/oyakata400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         親方 @oyakata2438 https://twitter.com/oyakata2438\\
@@ -67,7 +67,7 @@
         \includegraphics[width=.75\linewidth]{images/contributors/KANE.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        KANE https://twitter.com/higuyume
+        KANE https://twitter.com/higuyume\\
         \end{minipage}
     \hspace{1ex}
 //}
@@ -81,7 +81,7 @@
         \includegraphics[width=.75\linewidth]{images/contributors/FORTE.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        FORTE(フォルテ) https://twitter.com/FORTEgp05
+        FORTE(フォルテ) https://twitter.com/FORTEgp05\\
         \end{minipage}
     \hspace{1ex}
 //}
@@ -97,7 +97,7 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
         \includegraphics[width=.75\linewidth]{images/contributors/ebichiki.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        えびちき https://twitter.com/ebichiki
+        えびちき https://twitter.com/ebichiki\\
         \end{minipage}
     \hspace{1ex}
 //}
@@ -113,7 +113,7 @@ IT企業で働くママエンジニアです。福島のITスキルアップコ�
         \includegraphics[width=.75\linewidth]{images/contributors/nainaistar.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        きり丸 https://twitter.com/nainaistar
+        きり丸 https://twitter.com/nainaistar\\
         \end{minipage}
     \hspace{1ex}
 //}
@@ -129,7 +129,7 @@ SIerのウォーターフォールを経験したのちに、転職してアジ�
         \includegraphics[width=.75\linewidth]{images/contributors/koheisg.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        koheisg https://twitter.com/koheisg
+        koheisg https://twitter.com/koheisg\\
         \end{minipage}
     \hspace{1ex}
 //}
@@ -142,10 +142,10 @@ SIerのウォーターフォールを経験したのちに、転職してアジ�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/naokazu_terada.jpeg}
+        \includegraphics[width=.75\linewidth]{images/contributors/naokazuterada.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        寺田直和 https://twitter.com/naokazu\_terada
+        寺田直和 https://twitter.com/naokazu\_terada\\
         \end{minipage}
     \hspace{1ex}
 //}
@@ -180,7 +180,7 @@ SIerのウォーターフォールを経験したのちに、転職してアジ�
         \includegraphics[width=.75\linewidth]{images/contributors/goodengineer7.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        S(エス) https://twitter.com/goodengineer7
+        S(エス) https://twitter.com/goodengineer7\\
         \end{minipage}
     \hspace{1ex}
 //}
@@ -197,7 +197,7 @@ SIerのウォーターフォールを経験したのちに、転職してアジ�
         \includegraphics[width=.75\linewidth]{images/contributors/akazunoma.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        akazunoma https://twitter.com/akazunoma
+        akazunoma https://twitter.com/akazunoma\\
         \end{minipage}
     \hspace{1ex}
 //}
@@ -235,7 +235,7 @@ podcastはたのしいです。
         \includegraphics[width=.75\linewidth]{images/contributors/iwasiman.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        いわしまん https://twitter.com/iwasiman
+        いわしまん https://twitter.com/iwasiman\\
         \end{minipage}
     \hspace{1ex}
 //}
@@ -250,7 +250,7 @@ podcastはたのしいです。
         \includegraphics[width=.75\linewidth]{images/contributors/etDVh3D9_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        ひな https://twitter.com/hinahypersonica
+        ひな https://twitter.com/hinahypersonica\\
         \end{minipage}
     \hspace{1ex}
 //}
@@ -266,7 +266,7 @@ podcastはたのしいです。
         \includegraphics[width=.75\linewidth]{images/contributors/gami.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        jumpei\_ikegami https://twitter.com/jumpei\_ikegami
+        jumpei\_ikegami https://twitter.com/jumpei\_ikegami\\
         \end{minipage}
     \hspace{1ex}
 //}
