@@ -13,7 +13,7 @@ Podcastを簡単に説明すると、個人でも配信できる「インター�
 
 ちなみにiTunesにPodcastの機能が追加されたのは、2005年6月のバージョン4.9からだそうです。Podcastを最近知った方、あるいは数年前から知っている方にしても、15年も前から存在しているのは意外に感じるのではないでしょうか?
 
-//image[podcast_history_01][ベン・ハマーズリーが新聞に投稿した記事（Web版）][scale=0.7]
+//image[podcast_history_01][ベン・ハマーズリーが新聞に投稿した記事（Web版）][scale=0.6]
 
 //footnote[call_podcast][https://www.theguardian.com/media/2004/feb/12/broadcasting.digitalmedia]
 
