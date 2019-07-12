@@ -126,6 +126,20 @@ SIerのウォーターフォールを経験したのちに、転職してアジ�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/naokazuterada.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        寺田直和 https://twitter.com/naokazu\_terada\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+元々デザイナー兼エンジニアでしたが、今は開発をメインで担当しています。デザインとプログラミングの力で解決できることは何でもします。ウェブ案件ではWordPressやSSGを使うことが多いです。何か役に立つツールを作ることが好きです。
+現在、弊社では一緒に働く仲間を募集中です。デザインと開発両方に興味があり、弊社の過去の実績や考え方をご覧いただいて共感していただける方はぜひ一度お話しましょう！
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
         \includegraphics[width=.75\linewidth]{images/contributors/koheisg.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
