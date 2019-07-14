@@ -277,7 +277,7 @@ podcastはたのしいです。
         \includegraphics[width=.75\linewidth]{images/contributors/nabekura.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        なべくら https://twitter.com/nabe__kurage
+        なべくら https://twitter.com/nabe__kurage\\
         \end{minipage}
     \hspace{1ex}
 //}
