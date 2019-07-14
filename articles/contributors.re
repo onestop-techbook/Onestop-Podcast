@@ -271,6 +271,17 @@ podcastはたのしいです。
 『完全SIer脱出マニュアル』著者。
 好きな完全食はCOMP。
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/nabekura.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        なべくら https://twitter.com/nabe__kurage
+        \end{minipage}
+    \hspace{1ex}
+//}
+普段はフロントエンドエンジニアやってます。楽しそうなことには首を突っ込まずにはいられない性格。podcast作ったり、イラスト描いたり、写真撮ったり…物を作ってワクワクしながら生きていきたい！
 
 
 == 表紙イラスト担当
