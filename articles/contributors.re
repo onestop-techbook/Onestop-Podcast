@@ -297,6 +297,25 @@ podcastはたのしいです。
 //}
 「しがないラジオ」パーソナリティ、編集の人。バックエンドエンジニアやってます。「チーム開発1年目の教科書」著者。本書では数少ないSoundCloud利用者として利用方法を書きました。
 
+
+　
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/komacchi.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        こまっち https://twitter.com/komacchi\_u\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+普段は、インフラエンジニア(クラウド・IaaS・セキュリティ)をしております。本書のPodcastにゲスト出演させていただいたりしています。最近は、筋トレ、ファンクショナルトレーニングにハマっています。目指せ筋トレエンジニア！
+本書では、コラムを一部書かせていただきました。
+
+
+
 == 表紙イラスト担当
 
 //embed{
