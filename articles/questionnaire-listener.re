@@ -279,9 +279,9 @@ PCがメインです。ブラウザで公開ページ直接開いて埋め込ん
 ===={iwasiman1} 簡単な自己紹介
 いわしまんと申します。Twitterやブログで、イベントや技術書や同人誌、Podcastの感想を呟いたりしています。本書で語られているであろうPodcast群では、『しがないラジオ』sp.53a/b、『aozora.fm』 24回にゲスト出演させていただいています。
 
-@<code>{https://shiganai.org/ep/sp53a-iwasiman}
-@<code>{https://shiganai.org/ep/sp53b-iwasiman}
-@<code>{https://fortegp05.github.io/aozorafm/episode/24}
+* @<code>{https://shiganai.org/ep/sp53a-iwasiman}
+* @<code>{https://shiganai.org/ep/sp53b-iwasiman}
+* @<code>{https://fortegp05.github.io/aozorafm/episode/24}
 
 ===={iwasiman2} どうして聴いているのか?
 広い視点に立って幅広く情報を摂取でき、様々な人の話を聴けるから。自分は比較的大きな企業、揶揄するならばJapanese Traditional Big Companyというやつに近いところで働いていますが、多くの社員がそうであるように社内に留まっているとどうしても視野が狭まってしまう、もっと広く様々な立場の人たちを知り、社外から刺激を受けていこう……という想いが前々からありました。エンジニア界隈を活動領域に定めてブログを再起動し、繋がりが増えてきてからその想いはさらに強まりました。Podcastはちょうどその目的に沿ったツールだったわけです。また、多彩な人の面白い話が聴けるのがそもそも楽しいからという理由もあります。
