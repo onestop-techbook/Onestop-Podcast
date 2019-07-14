@@ -283,6 +283,19 @@ podcastはたのしいです。
 //}
 普段はフロントエンドエンジニアやってます。楽しそうなことには首を突っ込まずにはいられない性格。podcast作ったり、イラスト描いたり、写真撮ったり…物を作ってワクワクしながら生きていきたい！
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/zuckey.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        zuckey https://twitter.com/ziuckey\_17\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+「しがないラジオ」パーソナリティ、編集の人。バックエンドエンジニアやってます。「チーム開発1年目の教科書」著者。本書では数少ないSoundCloud利用者として利用方法を書きました。
 
 == 表紙イラスト担当
 
