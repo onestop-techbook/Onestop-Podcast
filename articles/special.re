@@ -4,11 +4,16 @@
 
 下記URLからお楽しみください。
 
-「sp.1【#おやかたam】特別編！合同誌ワンストップPodcastの著者を集めて語りました！」
+sp.1【#おやかたam】特別編！合同誌ワンストップPodcastの著者を集めて語りました！
+
 https://anchor.fm/kane4/episodes/sp-1amPodcast-e4k368
 
+
 【本誌限定】編集前音源
+
 https://drive.google.com/file/d/1BGOAV5xLMdi7gyVdpSyIfzPgGB3Xjv1U/view?usp=sharing
+
+https://bit.ly/2NUpEby
 
 なお、本収録は、錬金術ラボにて実施しました。内容は大変エモい物となっております。
 
@@ -35,4 +40,3 @@ https://drive.google.com/file/d/1BGOAV5xLMdi7gyVdpSyIfzPgGB3Xjv1U/view?usp=shari
 今回は、無編集版も同時に公開しますので、そちらと比べて柿の種の音の編集の苦労を感じていただければと思います。
 
 最後に言っておきますが、私は柿の種が大好きです。 
-====[/column]
