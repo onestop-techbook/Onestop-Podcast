@@ -36,7 +36,7 @@ Podcastを聞いていますか?本書はPodcastを聞く人であるリスナ�
 
 //flushright{
 
-2019年7月
+2022年12月
 
 編集長　親方＠親方Project　拝
 

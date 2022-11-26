@@ -31,6 +31,8 @@ APPENDIX:
   # Podcaast特別編
   - special.re
 
+  - event.re
+
 POSTDEF:
   # あとがき
   - postscript.re
